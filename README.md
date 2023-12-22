@@ -27,3 +27,15 @@ Projenin CSS Kodlarının Kısa Açıklamaları
 - `button`: Satın alma butonunun stilini belirler. Renk, font özellikleri, kenar yuvarlatma ve hizalama ayarları içerir.
 - `.price p`: Oyun fiyatının stilini belirler. Sağa hizalıdır ve sağ kenara bir boşluk bırakır.
 
+
+# Ekran Resmi
+![zyrasoftware](kodde2.png)
+
+# Bilgilendirme
+**---------------------------------------------------------**
+| Herkese Açık | Geliştirilebilir | Zyra Software|
+|---------|---------|---------|
+| Açık | Geliştirilebilir |@zyrasoftware |
+
+
+
